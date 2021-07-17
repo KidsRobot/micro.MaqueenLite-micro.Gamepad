@@ -12,6 +12,12 @@ All code samples below are hosted on Microsoft Makecode. Code samples are well c
 
 ### Code sample #1 - remote movement control
 
+**Blocks:**
+
+[sender end] - https://makecode.microbit.org/_1AiEaA4hWK9J
+
+[receiver end] - https://makecode.microbit.org/_AbRVF1dFqPzC
+
 **Javascript:**
 
 [sender end] - https://makecode.microbit.org/_4H2TMDX9w95F
