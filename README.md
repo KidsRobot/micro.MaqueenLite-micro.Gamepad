@@ -23,3 +23,9 @@ All code samples below are hosted on Microsoft Makecode. Code samples are well c
 [sender end] - https://makecode.microbit.org/_4H2TMDX9w95F
 
 [receiver end] - https://makecode.microbit.org/_F7Lf48UW2C0h
+
+**Python:**
+
+[sender end] - https://makecode.microbit.org/_Ag5U5UbwH1od
+
+[receiver end] - https://makecode.microbit.org/_KEh6cUKuTHPv
