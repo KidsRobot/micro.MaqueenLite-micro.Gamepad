@@ -20,9 +20,9 @@ All code samples below are hosted on Microsoft Makecode. Code samples are well c
 
 **Javascript:**
 
-[sender end] - https://makecode.microbit.org/_4H2TMDX9w95F
+[sender end] - https://makecode.microbit.org/_c5mRXHUXMi2D
 
-[receiver end] - https://makecode.microbit.org/_F7Lf48UW2C0h
+[receiver end] - https://makecode.microbit.org/_2xR3rq87hRh1
 
 **Python:**
 
