@@ -2,7 +2,11 @@
 
 > **Beginner-friendly code samples for micro:Maqueen Lite + micro:Gamepad. micro:Maqueen Lite is a mini funcationable robot powered by BBC micro:bit. Offering various of powerful features and easy implementation. micro:Gamepad enables to contorl the robot simply and remotely.**
 
+<br>
+
 Product link: https://kidsrobot.ca/product/micro-maqueen-lite-micro-gamepad
+
+![micro:Maqueen Lite + micro:Gamepad](https://kidsrobot.ca/storage/app/media/v6I6nRgvaEY7vlyDGIDUbosvcd8jPh1od2y06rji.jpeg)
 
 <br>
 
