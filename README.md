@@ -33,3 +33,11 @@ All code samples below are hosted on Microsoft Makecode. Code samples are well c
 [sender end] - https://makecode.microbit.org/_Ag5U5UbwH1od
 
 [receiver end] - https://makecode.microbit.org/_KEh6cUKuTHPv
+
+### Code sample #2 - driving mode control
+
+**Javascript:**
+
+[sender end] - https://makecode.microbit.org/_HfqfjXTaqM37
+
+[receiver end] - https://makecode.microbit.org/_CoqPgA3W1cjP
