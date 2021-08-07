@@ -6,8 +6,6 @@
 
 Product link: https://kidsrobot.ca/product/micro-maqueen-lite-micro-gamepad
 
-![micro:Maqueen Lite + micro:Gamepad](https://kidsrobot.ca/storage/app/media/v6I6nRgvaEY7vlyDGIDUbosvcd8jPh1od2y06rji.jpeg)
-
 <br>
 
 ## Code Samples
